@@ -5,6 +5,6 @@
 <a href="<%=request.getContextPath()%>/index/indexcontroller">用户与产品</a>
 <a href="<%=request.getContextPath()%>/product/toProduct">添加产品</a>
 <a href="<%=request.getContextPath()%>/customer/toCustomer">添加客户</a>
-<a href="">添加管理员</a>
+<a href="<%=request.getContextPath()%>/user/toLogin">登陆</a>
 </body>
 </html>
