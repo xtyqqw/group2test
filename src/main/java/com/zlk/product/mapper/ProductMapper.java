@@ -11,10 +11,5 @@ import java.util.List;
  * @Date： 2019/10/9 20:30
  */
 public interface ProductMapper {
-    /**
-     * 查询所有产品信息
-     * @return
-     */
-    List<Product> findProductAll();
 
 }
