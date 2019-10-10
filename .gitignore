@@ -1,6 +1,8 @@
 ### Java template
 *.class
 
+target/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -33,6 +35,10 @@ hs_err_pid*
 # Gradle:
 .idea/gradle.xml
 .idea/
+### IntelliJ IDEA ###
+.idea
+*.iml
+*.ipr
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
